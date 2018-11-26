@@ -1,0 +1,3 @@
+/*
+	These are the translation strings for users of different language and locale
+ */
