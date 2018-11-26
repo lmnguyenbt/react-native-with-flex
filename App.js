@@ -345,8 +345,7 @@ const styles_key2 = StyleSheet.create({
 		margin: 3,
 		borderRadius: 4,
 		backgroundColor: '#595B59',
-		justifyContent: 'center',
-		alignItems: 'center'
+		justifyContent: 'center'
 	},
 	number: {
 		fontSize: 10,
@@ -357,7 +356,7 @@ const styles_key2 = StyleSheet.create({
 		color: '#ffffff',
 		fontSize: 20,
 		fontWeight: 'bold',
-		textAlign: 'center'
+		textAlign: 'center',
 	},
 	text_size: {
 		fontSize: 17,
